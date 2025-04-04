@@ -1,4 +1,5 @@
 #Function 1
+# Benny Garcia wrote this function
 # Returns Area of Rectangle
 def rect_area(length, width):
     return length * width
